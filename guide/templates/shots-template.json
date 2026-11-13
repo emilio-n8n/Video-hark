@@ -1,0 +1,14 @@
+[
+ {"name": "thumb-a", "kind": "plate", "w": 1664, "h": 928, "seed": 11,
+  "subject": "Full-frame 16:9 cinematic collage poster: <SUJET CHOC> printed as a black-and-white halftone engraved photograph cut out with a thin white scissor border, placed on the right half of the frame, over a bold torn deep-red paper background with a few torn warm-yellow paper strips, strong contrast, the left third of the frame left as plain empty red paper."},
+ {"name": "plate-<lieu>", "kind": "plate", "w": 1664, "h": 928, "seed": 21,
+  "subject": "Full-frame 16:9 background plate: <LIEU, ÉPOQUE, DÉTAILS CONCRETS>, made of layered torn paper and halftone engraved photo cut-outs, pale dusty-blue sky with torn white paper clouds, the center left empty and calm for elements to be placed later."},
+ {"name": "<objet>", "kind": "cutout", "w": 1024, "h": 1024, "seed": 22,
+  "subject": "One <OBJET PRÉCIS>, <vu comment>, as a black-and-white halftone engraved photograph cut out with scissors, thin white paper border following its silhouette, centered."},
+ {"name": "<objet-large>", "kind": "cutout", "w": 1472, "h": 832, "seed": 23,
+  "subject": "<OBJET LARGE> seen from the side, as a black-and-white halftone engraved photograph cut out with a thin white scissor border, flat bottom edge, one warm-yellow accent on <détail>."},
+ {"name": "<bande-large>", "kind": "cutout", "w": 1664, "h": 640, "seed": 24,
+  "subject": "A long horizontal strip of <FOULE / RANGÉE D'OBJETS>, as a black-and-white halftone engraved photograph cut out with a thin white scissor border along the top, flat bottom edge."},
+ {"name": "<objet-haut>", "kind": "cutout", "w": 832, "h": 1248, "seed": 25,
+  "subject": "One <OBJET HAUT : tour, éolienne, pylône>, full height, as a black-and-white halftone engraved photograph cut out with a thin white scissor border, flat bottom edge, vertical, centered."}
+]

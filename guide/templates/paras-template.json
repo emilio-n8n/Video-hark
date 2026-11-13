@@ -1,0 +1,8 @@
+[
+ {"id": "HOOK", "lines": ["Première phrase de l'accroche, nombres en lettres.", "Deuxième phrase."]},
+ {"id": "CHAPITRE 1 — TITRE DU CHAPITRE", "lines": ["Phrase.", "Phrase."]},
+ {"id": "CHAPITRE 2 — TITRE", "lines": ["…"]},
+ {"id": "CHAPITRE 3 — TITRE", "lines": ["Phrase de relance.", "…"]},
+ {"id": "CHAPITRE 4 — TITRE", "lines": ["…"]},
+ {"id": "CHAPITRE 5 — TITRE", "lines": ["…", "Question finale qui reboucle ?", "Dites-le en commentaire : A, B ou C."]}
+]
