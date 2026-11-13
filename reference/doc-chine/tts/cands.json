@@ -1,0 +1,52 @@
+[
+ {
+  "i": 0,
+  "path": "/kaggle/working/tts/cands/cand0.wav",
+  "cer": 0.014836795252225476,
+  "f0": 88.86585313719385,
+  "dur": 12.64,
+  "cps": 13.370253164556962,
+  "score": 0.31341283347011223,
+  "tr": " Il y a des histoires qui changent la façon dont on regarde le monde. Celles-ci commencent dans un pays pauvre et se terminent dans une course que personne n'avait vue venir."
+ },
+ {
+  "i": 1,
+  "path": "/kaggle/working/tts/cands/cand1.wav",
+  "cer": 0.014836795252225476,
+  "f0": 92.53264952447644,
+  "dur": 9.44,
+  "cps": 17.902542372881356,
+  "score": 0.7522995603487358,
+  "tr": " Il y a des histoires qui changent la façon dont on regarde le monde. Celles-ci commencent dans un pays pauvre et se terminent dans une course que personne n'avait vue venir."
+ },
+ {
+  "i": 2,
+  "path": "/kaggle/working/tts/cands/cand2.wav",
+  "cer": 0.014836795252225476,
+  "f0": 99.74854753713453,
+  "dur": 10.64,
+  "cps": 15.88345864661654,
+  "score": 0.13203459347110097,
+  "tr": " Il y a des histoires qui changent la façon dont on regarde le monde. Celles-ci commencent dans un pays pauvre et se terminent dans une course que personne n'avait vue venir."
+ },
+ {
+  "i": 3,
+  "path": "/kaggle/working/tts/cands/cand3.wav",
+  "cer": 0.014836795252225476,
+  "f0": 137.8438025996442,
+  "dur": 12.0,
+  "cps": 14.083333333333334,
+  "score": 0.5919070957507463,
+  "tr": " Il y a des histoires qui changent la façon dont on regarde le monde. Celles-ci commencent dans un pays pauvre et se terminent dans une course que personne n'avait vue venir."
+ },
+ {
+  "i": 4,
+  "path": "/kaggle/working/tts/cands/cand4.wav",
+  "cer": 0.017857142857142905,
+  "f0": 109.40669862698601,
+  "dur": 8.96,
+  "cps": 18.861607142857142,
+  "score": 0.6270164056878622,
+  "tr": " Il y a des histoires qui changent la façon dont on regarde le monde. Celles-ci commencent dans un pays pauvre et se terminent dans une course que personne n'avait vu venir."
+ }
+]
