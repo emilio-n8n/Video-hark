@@ -1,0 +1,812 @@
+[
+ {
+  "id": "p0_l00",
+  "start": 0.6,
+  "end": 4.09,
+  "text": "Beijing, April 19, 2026,"
+ },
+ {
+  "id": "p0_l00",
+  "start": 4.09,
+  "end": 6.2,
+  "text": "7:30 in the morning."
+ },
+ {
+  "id": "p0_l01",
+  "start": 6.52,
+  "end": 11.24,
+  "text": "A 1.69-metre humanoid robot sets off on a half marathon."
+ },
+ {
+  "id": "p0_l02",
+  "start": 11.56,
+  "end": 14.163,
+  "text": "It crosses the line in 50 minutes"
+ },
+ {
+  "id": "p0_l02",
+  "start": 14.163,
+  "end": 15.56,
+  "text": "and 26 seconds."
+ },
+ {
+  "id": "p0_l03",
+  "start": 15.88,
+  "end": 17.584,
+  "text": "The human world record,"
+ },
+ {
+  "id": "p0_l03",
+  "start": 17.584,
+  "end": 19.857,
+  "text": "set a month earlier in Lisbon,"
+ },
+ {
+  "id": "p0_l03",
+  "start": 19.857,
+  "end": 22.76,
+  "text": "is 57 minutes and 20 seconds."
+ },
+ {
+  "id": "p0_l04",
+  "start": 23.08,
+  "end": 23.949,
+  "text": "A year earlier,"
+ },
+ {
+  "id": "p0_l04",
+  "start": 23.949,
+  "end": 25.286,
+  "text": "in the same race,"
+ },
+ {
+  "id": "p0_l04",
+  "start": 25.286,
+  "end": 27.96,
+  "text": "the winner had taken 2 hours 40."
+ },
+ {
+  "id": "p0_l05",
+  "start": 28.28,
+  "end": 30.094,
+  "text": "This robot doesn't come out of"
+ },
+ {
+  "id": "p0_l05",
+  "start": 30.094,
+  "end": 32.445,
+  "text": "Silicon Valley. It was designed by"
+ },
+ {
+  "id": "p0_l05",
+  "start": 32.445,
+  "end": 35.4,
+  "text": "Honor, a Chinese smartphone maker."
+ },
+ {
+  "id": "p0_l06",
+  "start": 35.72,
+  "end": 37.103,
+  "text": "For 40 years,"
+ },
+ {
+  "id": "p0_l06",
+  "start": 37.103,
+  "end": 39.24,
+  "text": "we kept saying that China copied."
+ },
+ {
+  "id": "p0_l07",
+  "start": 39.56,
+  "end": 43.56,
+  "text": "Today, it's the country we watch to guess what comes next."
+ },
+ {
+  "id": "p0_l08",
+  "start": 43.88,
+  "end": 46.34,
+  "text": "To understand how we got"
+ },
+ {
+  "id": "p0_l08",
+  "start": 46.34,
+  "end": 48.14,
+  "text": "here, we have to go back to a country"
+ },
+ {
+  "id": "p0_l08",
+  "start": 48.14,
+  "end": 51.32,
+  "text": "where people lived on less than half a dollar a day."
+ },
+ {
+  "id": "p1_l00",
+  "start": 53.82,
+  "end": 56.7,
+  "text": "1978."
+ },
+ {
+  "id": "p1_l01",
+  "start": 57.02,
+  "end": 58.79,
+  "text": "According to the World Bank,"
+ },
+ {
+  "id": "p1_l01",
+  "start": 58.79,
+  "end": 61.241,
+  "text": "income per person in China is"
+ },
+ {
+  "id": "p1_l01",
+  "start": 61.241,
+  "end": 63.42,
+  "text": "157 dollars a year."
+ },
+ {
+  "id": "p1_l02",
+  "start": 63.74,
+  "end": 67.247,
+  "text": "That year, Deng Xiaoping launches the policy"
+ },
+ {
+  "id": "p1_l02",
+  "start": 67.247,
+  "end": 69.18,
+  "text": "of reform and opening up."
+ },
+ {
+  "id": "p1_l03",
+  "start": 69.5,
+  "end": 71.291,
+  "text": "The Party keeps power,"
+ },
+ {
+  "id": "p1_l03",
+  "start": 71.291,
+  "end": 73.68,
+  "text": "but it lets the market in through"
+ },
+ {
+  "id": "p1_l03",
+  "start": 73.68,
+  "end": 74.94,
+  "text": "small doors."
+ },
+ {
+  "id": "p1_l04",
+  "start": 75.26,
+  "end": 78.304,
+  "text": "The first one opens in 1980,"
+ },
+ {
+  "id": "p1_l04",
+  "start": 78.304,
+  "end": 80.456,
+  "text": "right across from Hong Kong:"
+ },
+ {
+  "id": "p1_l04",
+  "start": 80.456,
+  "end": 83.5,
+  "text": "the Shenzhen Special Economic Zone."
+ },
+ {
+  "id": "p1_l05",
+  "start": 83.82,
+  "end": 88.504,
+  "text": "In 1979, about 300,000 people live"
+ },
+ {
+  "id": "p1_l05",
+  "start": 88.504,
+  "end": 89.74,
+  "text": "in this area."
+ },
+ {
+  "id": "p1_l06",
+  "start": 90.06,
+  "end": 94.06,
+  "text": "By the end of 2025, there are over 18 million."
+ },
+ {
+  "id": "p1_l07",
+  "start": 94.38,
+  "end": 97.014,
+  "text": "Shenzhen makes things for others first,"
+ },
+ {
+  "id": "p1_l07",
+  "start": 97.014,
+  "end": 98.3,
+  "text": "then for itself."
+ },
+ {
+  "id": "p1_l08",
+  "start": 98.62,
+  "end": 102.62,
+  "text": "Huawei, Tencent and BYD were born there."
+ },
+ {
+  "id": "p1_l09",
+  "start": 102.94,
+  "end": 103.964,
+  "text": "In 40 years,"
+ },
+ {
+  "id": "p1_l09",
+  "start": 103.964,
+  "end": 106.734,
+  "text": "nearly 800 million Chinese people"
+ },
+ {
+  "id": "p1_l09",
+  "start": 106.734,
+  "end": 108.54,
+  "text": "have escaped extreme poverty."
+ },
+ {
+  "id": "p1_l10",
+  "start": 108.86,
+  "end": 111.044,
+  "text": "That's almost three quarters of the fall"
+ },
+ {
+  "id": "p1_l10",
+  "start": 111.044,
+  "end": 113.5,
+  "text": "in poverty worldwide over that period."
+ },
+ {
+  "id": "p1_l11",
+  "start": 113.82,
+  "end": 115.405,
+  "text": "And in 2025,"
+ },
+ {
+  "id": "p1_l11",
+  "start": 115.405,
+  "end": 119.5,
+  "text": "income per person tops 13,800 dollars."
+ },
+ {
+  "id": "p1_l12",
+  "start": 119.82,
+  "end": 124.3,
+  "text": "Nearly 90 times the 1978 figure."
+ },
+ {
+  "id": "p2_l00",
+  "start": 126.8,
+  "end": 130.023,
+  "text": "For a long time, the West reassured itself with"
+ },
+ {
+  "id": "p2_l00",
+  "start": 130.023,
+  "end": 131.828,
+  "text": "a simple idea: China manufactures,"
+ },
+ {
+  "id": "p2_l00",
+  "start": 131.828,
+  "end": 133.44,
+  "text": "but it doesn't invent."
+ },
+ {
+  "id": "p2_l01",
+  "start": 133.76,
+  "end": 136.32,
+  "text": "January 2025."
+ },
+ {
+  "id": "p2_l02",
+  "start": 136.64,
+  "end": 138.99,
+  "text": "A young company from Hangzhou,"
+ },
+ {
+  "id": "p2_l02",
+  "start": 138.99,
+  "end": 143.76,
+  "text": "DeepSeek, releases an AI model called R1."
+ },
+ {
+  "id": "p2_l03",
+  "start": 144.08,
+  "end": 147.12,
+  "text": "It holds its own against the best American models."
+ },
+ {
+  "id": "p2_l04",
+  "start": 147.44,
+  "end": 150.928,
+  "text": "DeepSeek says it spent about 5.6 million"
+ },
+ {
+  "id": "p2_l04",
+  "start": 150.928,
+  "end": 153.153,
+  "text": "dollars of computing on its base"
+ },
+ {
+  "id": "p2_l04",
+  "start": 153.153,
+  "end": 156.16,
+  "text": "model, a figure some analysts dispute."
+ },
+ {
+  "id": "p2_l05",
+  "start": 156.48,
+  "end": 158.214,
+  "text": "All of it on chips restricted"
+ },
+ {
+  "id": "p2_l05",
+  "start": 158.214,
+  "end": 160.0,
+  "text": "by American export controls."
+ },
+ {
+  "id": "p2_l06",
+  "start": 160.32,
+  "end": 162.128,
+  "text": "On Monday, January 27,"
+ },
+ {
+  "id": "p2_l06",
+  "start": 162.128,
+  "end": 166.48,
+  "text": "Nvidia loses about 589 billion dollars in market value."
+ },
+ {
+  "id": "p2_l07",
+  "start": 166.8,
+  "end": 169.798,
+  "text": "No company had ever lost that much in"
+ },
+ {
+  "id": "p2_l07",
+  "start": 169.798,
+  "end": 170.96,
+  "text": "a single day."
+ },
+ {
+  "id": "p2_l08",
+  "start": 171.28,
+  "end": 174.0,
+  "text": "This shock didn't come out of nowhere."
+ },
+ {
+  "id": "p2_l09",
+  "start": 174.32,
+  "end": 179.275,
+  "text": "Australia's ASPI institute tracks 74 critical technologies."
+ },
+ {
+  "id": "p2_l10",
+  "start": 179.595,
+  "end": 182.142,
+  "text": "In the most-cited research published between"
+ },
+ {
+  "id": "p2_l10",
+  "start": 182.142,
+  "end": 184.393,
+  "text": "2021 and 2025,"
+ },
+ {
+  "id": "p2_l10",
+  "start": 184.393,
+  "end": 187.355,
+  "text": "China leads in 69 of them."
+ },
+ {
+  "id": "p2_l11",
+  "start": 187.675,
+  "end": 189.755,
+  "text": "In the mid-2000s,"
+ },
+ {
+  "id": "p2_l11",
+  "start": 189.755,
+  "end": 191.195,
+  "text": "it led in just 3."
+ },
+ {
+  "id": "p3_l00",
+  "start": 193.695,
+  "end": 195.629,
+  "text": "But AI without electricity"
+ },
+ {
+  "id": "p3_l00",
+  "start": 195.629,
+  "end": 198.015,
+  "text": "is just a program waiting to run."
+ },
+ {
+  "id": "p3_l01",
+  "start": 198.335,
+  "end": 200.132,
+  "text": "And on electricity,"
+ },
+ {
+  "id": "p3_l01",
+  "start": 200.132,
+  "end": 202.255,
+  "text": "the gap is dizzying."
+ },
+ {
+  "id": "p3_l02",
+  "start": 202.575,
+  "end": 205.757,
+  "text": "In 2025, China connected more than"
+ },
+ {
+  "id": "p3_l02",
+  "start": 205.757,
+  "end": 209.215,
+  "text": "430 gigawatts of wind and solar."
+ },
+ {
+  "id": "p3_l03",
+  "start": 209.535,
+  "end": 211.135,
+  "text": "In a single year."
+ },
+ {
+  "id": "p3_l04",
+  "start": 211.455,
+  "end": 212.839,
+  "text": "For the first time,"
+ },
+ {
+  "id": "p3_l04",
+  "start": 212.839,
+  "end": 214.946,
+  "text": "wind and solar overtake"
+ },
+ {
+  "id": "p3_l04",
+  "start": 214.946,
+  "end": 217.775,
+  "text": "thermal power plants in its power mix."
+ },
+ {
+  "id": "p3_l05",
+  "start": 218.095,
+  "end": 221.186,
+  "text": "Its renewable output reaches about 4,000"
+ },
+ {
+  "id": "p3_l05",
+  "start": 221.186,
+  "end": 222.655,
+  "text": "billion kilowatt-hours."
+ },
+ {
+  "id": "p3_l06",
+  "start": 222.975,
+  "end": 225.929,
+  "text": "More than all the electricity used by"
+ },
+ {
+  "id": "p3_l06",
+  "start": 225.929,
+  "end": 228.255,
+  "text": "the 27 countries of the European Union."
+ },
+ {
+  "id": "p3_l07",
+  "start": 228.575,
+  "end": 232.015,
+  "text": "That electricity then has to be stored."
+ },
+ {
+  "id": "p3_l08",
+  "start": 232.335,
+  "end": 234.82,
+  "text": "According to the International Energy Agency,"
+ },
+ {
+  "id": "p3_l08",
+  "start": 234.82,
+  "end": 236.796,
+  "text": "more than 80% of the battery"
+ },
+ {
+  "id": "p3_l08",
+  "start": 236.796,
+  "end": 239.846,
+  "text": "cells produced worldwide in 2025"
+ },
+ {
+  "id": "p3_l08",
+  "start": 239.846,
+  "end": 240.975,
+  "text": "came from China."
+ },
+ {
+  "id": "p3_l09",
+  "start": 241.295,
+  "end": 243.399,
+  "text": "And for the materials inside"
+ },
+ {
+  "id": "p3_l09",
+  "start": 243.399,
+  "end": 245.935,
+  "text": "those batteries, its share is even higher."
+ },
+ {
+  "id": "p4_l00",
+  "start": 248.435,
+  "end": 250.395,
+  "text": "From batteries to cars,"
+ },
+ {
+  "id": "p4_l00",
+  "start": 250.395,
+  "end": 251.795,
+  "text": "it's only a short step."
+ },
+ {
+  "id": "p4_l01",
+  "start": 252.115,
+  "end": 255.679,
+  "text": "In 2025, nearly 3 out of 4 electric cars"
+ },
+ {
+  "id": "p4_l01",
+  "start": 255.679,
+  "end": 258.141,
+  "text": "produced in the world"
+ },
+ {
+  "id": "p4_l01",
+  "start": 258.141,
+  "end": 259.955,
+  "text": "came out of Chinese factories."
+ },
+ {
+  "id": "p4_l02",
+  "start": 260.275,
+  "end": 261.37,
+  "text": "That same year,"
+ },
+ {
+  "id": "p4_l02",
+  "start": 261.37,
+  "end": 264.143,
+  "text": "BYD, a company founded in Shenzhen in"
+ },
+ {
+  "id": "p4_l02",
+  "start": 264.143,
+  "end": 267.573,
+  "text": "1995 to make batteries,"
+ },
+ {
+  "id": "p4_l02",
+  "start": 267.573,
+  "end": 272.755,
+  "text": "sold 2.26 million fully electric cars."
+ },
+ {
+  "id": "p4_l03",
+  "start": 273.075,
+  "end": 276.515,
+  "text": "Tesla delivered 1.64 million."
+ },
+ {
+  "id": "p4_l04",
+  "start": 276.835,
+  "end": 279.427,
+  "text": "For the first time over a full"
+ },
+ {
+  "id": "p4_l04",
+  "start": 279.427,
+  "end": 281.875,
+  "text": "year, the American company was overtaken."
+ },
+ {
+  "id": "p4_l05",
+  "start": 282.195,
+  "end": 283.342,
+  "text": "In the factories,"
+ },
+ {
+  "id": "p4_l05",
+  "start": 283.342,
+  "end": 285.635,
+  "text": "machines are taking over too."
+ },
+ {
+  "id": "p4_l06",
+  "start": 285.955,
+  "end": 289.232,
+  "text": "In 2024, China installed 295,000"
+ },
+ {
+  "id": "p4_l06",
+  "start": 289.232,
+  "end": 291.235,
+  "text": "industrial robots."
+ },
+ {
+  "id": "p4_l07",
+  "start": 291.555,
+  "end": 295.315,
+  "text": "More than one in every two installed on the planet."
+ },
+ {
+  "id": "p4_l08",
+  "start": 295.635,
+  "end": 297.329,
+  "text": "And for the first time,"
+ },
+ {
+  "id": "p4_l08",
+  "start": 297.329,
+  "end": 300.195,
+  "text": "most of them came from Chinese makers."
+ },
+ {
+  "id": "p4_l09",
+  "start": 300.515,
+  "end": 303.302,
+  "text": "The half-marathon humanoids are only"
+ },
+ {
+  "id": "p4_l09",
+  "start": 303.302,
+  "end": 305.075,
+  "text": "the shop window of this shift."
+ },
+ {
+  "id": "p5_l00",
+  "start": 307.575,
+  "end": 310.573,
+  "text": "American investor Ray Dalio studied five"
+ },
+ {
+  "id": "p5_l00",
+  "start": 310.573,
+  "end": 311.796,
+  "text": "centuries of empires:"
+ },
+ {
+  "id": "p5_l00",
+  "start": 311.796,
+  "end": 314.61,
+  "text": "the Dutch Republic, then Britain,"
+ },
+ {
+  "id": "p5_l00",
+  "start": 314.61,
+  "end": 315.895,
+  "text": "then the United States."
+ },
+ {
+  "id": "p5_l01",
+  "start": 316.215,
+  "end": 320.855,
+  "text": "For him, power follows a big cycle."
+ },
+ {
+  "id": "p5_l02",
+  "start": 321.175,
+  "end": 323.217,
+  "text": "You rise by educating,"
+ },
+ {
+  "id": "p5_l02",
+  "start": 323.217,
+  "end": 325.815,
+  "text": "innovating, producing."
+ },
+ {
+  "id": "p5_l03",
+  "start": 326.135,
+  "end": 328.179,
+  "text": "Then come debt,"
+ },
+ {
+  "id": "p5_l03",
+  "start": 328.179,
+  "end": 330.223,
+  "text": "internal divisions,"
+ },
+ {
+  "id": "p5_l03",
+  "start": 330.223,
+  "end": 331.415,
+  "text": "and decline."
+ },
+ {
+  "id": "p5_l04",
+  "start": 331.735,
+  "end": 334.384,
+  "text": "In his 2021 book,"
+ },
+ {
+  "id": "p5_l04",
+  "start": 334.384,
+  "end": 336.885,
+  "text": "he describes a rising power,"
+ },
+ {
+  "id": "p5_l04",
+  "start": 336.885,
+  "end": 339.975,
+  "text": "China, challenging the established one."
+ },
+ {
+  "id": "p5_l05",
+  "start": 340.295,
+  "end": 342.535,
+  "text": "Still, nothing is set in stone."
+ },
+ {
+  "id": "p5_l06",
+  "start": 342.855,
+  "end": 345.454,
+  "text": "China's population shrank again in"
+ },
+ {
+  "id": "p5_l06",
+  "start": 345.454,
+  "end": 348.114,
+  "text": "2025, real estate has struggled,"
+ },
+ {
+  "id": "p5_l06",
+  "start": 348.114,
+  "end": 350.775,
+  "text": "and trade tensions keep piling up."
+ },
+ {
+  "id": "p5_l07",
+  "start": 351.095,
+  "end": 353.415,
+  "text": "But one thing has already shifted."
+ },
+ {
+  "id": "p5_l08",
+  "start": 353.735,
+  "end": 356.024,
+  "text": "The country once accused of copying"
+ },
+ {
+  "id": "p5_l08",
+  "start": 356.024,
+  "end": 358.375,
+  "text": "has become the one others study."
+ },
+ {
+  "id": "p5_l09",
+  "start": 358.695,
+  "end": 361.338,
+  "text": "So the next robot to break a"
+ },
+ {
+  "id": "p5_l09",
+  "start": 361.338,
+  "end": 363.575,
+  "text": "human record: where will it come from?"
+ },
+ {
+  "id": "p5_l10",
+  "start": 363.895,
+  "end": 366.353,
+  "text": "Tell us in the comments:"
+ },
+ {
+  "id": "p5_l10",
+  "start": 366.353,
+  "end": 369.095,
+  "text": "China, the United States or Europe."
+ }
+]

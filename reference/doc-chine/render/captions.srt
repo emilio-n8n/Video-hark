@@ -1,0 +1,540 @@
+1
+00:00:00,600 --> 00:00:04,090
+Pékin, le 19 avril 2026,
+
+2
+00:00:04,090 --> 00:00:06,200
+7 h 30 du matin.
+
+3
+00:00:06,520 --> 00:00:11,240
+Un robot humanoïde d'1,69 m s'élance sur un semi-marathon.
+
+4
+00:00:11,560 --> 00:00:14,163
+Il franchit la ligne en 50 minutes
+
+5
+00:00:14,163 --> 00:00:15,560
+et 26 secondes.
+
+6
+00:00:15,880 --> 00:00:17,584
+Le record du monde humain,
+
+7
+00:00:17,584 --> 00:00:19,857
+établi un mois plus tôt à Lisbonne,
+
+8
+00:00:19,857 --> 00:00:22,760
+est de 57 minutes et 20 secondes.
+
+9
+00:00:23,080 --> 00:00:23,949
+Un an avant,
+
+10
+00:00:23,949 --> 00:00:25,286
+sur la même course,
+
+11
+00:00:25,286 --> 00:00:27,960
+le vainqueur avait mis 2 h 40.
+
+12
+00:00:28,280 --> 00:00:30,094
+Ce robot ne sort pas de la
+
+13
+00:00:30,094 --> 00:00:32,445
+Silicon Valley. Il a été conçu par
+
+14
+00:00:32,445 --> 00:00:35,400
+Honor, un fabricant chinois de smartphones.
+
+15
+00:00:35,720 --> 00:00:37,103
+Pendant 40 ans,
+
+16
+00:00:37,103 --> 00:00:39,240
+on a répété que la Chine copiait.
+
+17
+00:00:39,560 --> 00:00:43,560
+Aujourd'hui, c'est elle qu'on regarde pour deviner la suite.
+
+18
+00:00:43,880 --> 00:00:46,340
+Pour comprendre comment on en est arrivé
+
+19
+00:00:46,340 --> 00:00:48,140
+là, il faut revenir à un pays
+
+20
+00:00:48,140 --> 00:00:51,320
+où l'on vivait avec moins d'un demi-dollar par jour.
+
+21
+00:00:53,820 --> 00:00:56,700
+1978.
+
+22
+00:00:57,020 --> 00:00:58,790
+Selon la Banque mondiale,
+
+23
+00:00:58,790 --> 00:01:01,241
+le revenu par habitant en Chine est
+
+24
+00:01:01,241 --> 00:01:03,420
+de 157 dollars par an.
+
+25
+00:01:03,740 --> 00:01:07,247
+Cette année-là, Deng Xiaoping lance la politique
+
+26
+00:01:07,247 --> 00:01:09,180
+de réforme et d'ouverture.
+
+27
+00:01:09,500 --> 00:01:11,291
+Le Parti garde le pouvoir,
+
+28
+00:01:11,291 --> 00:01:13,680
+mais il laisse entrer le marché par
+
+29
+00:01:13,680 --> 00:01:14,940
+de petites portes.
+
+30
+00:01:15,260 --> 00:01:18,304
+La première s'ouvre en 1980,
+
+31
+00:01:18,304 --> 00:01:20,456
+juste en face de Hong Kong :
+
+32
+00:01:20,456 --> 00:01:23,500
+la zone économique spéciale de Shenzhen.
+
+33
+00:01:23,820 --> 00:01:28,504
+En 1979, environ 300 000 personnes vivent
+
+34
+00:01:28,504 --> 00:01:29,740
+sur ce territoire.
+
+35
+00:01:30,060 --> 00:01:34,060
+Fin 2025, elles sont plus de 18 millions.
+
+36
+00:01:34,380 --> 00:01:37,014
+Shenzhen fabrique d'abord pour les autres,
+
+37
+00:01:37,014 --> 00:01:38,300
+puis pour elle-même.
+
+38
+00:01:38,620 --> 00:01:42,620
+Huawei, Tencent et BYD y sont nés.
+
+39
+00:01:42,940 --> 00:01:43,964
+En 40 ans,
+
+40
+00:01:43,964 --> 00:01:46,734
+près de 800 millions de Chinois sont
+
+41
+00:01:46,734 --> 00:01:48,540
+sortis de l'extrême pauvreté.
+
+42
+00:01:48,860 --> 00:01:51,044
+C'est presque les trois quarts du recul
+
+43
+00:01:51,044 --> 00:01:53,500
+de la pauvreté dans le monde sur la période.
+
+44
+00:01:53,820 --> 00:01:55,405
+Et en 2025,
+
+45
+00:01:55,405 --> 00:01:59,500
+le revenu par habitant dépasse 13 800 dollars.
+
+46
+00:01:59,820 --> 00:02:04,300
+Près de 90 fois le chiffre de 1978.
+
+47
+00:02:06,800 --> 00:02:10,023
+Longtemps, l'Occident s'est rassuré avec une idée
+
+48
+00:02:10,023 --> 00:02:11,828
+simple : la Chine fabrique,
+
+49
+00:02:11,828 --> 00:02:13,440
+mais elle n'invente pas.
+
+50
+00:02:13,760 --> 00:02:16,320
+Janvier 2025.
+
+51
+00:02:16,640 --> 00:02:18,990
+Une jeune entreprise de Hangzhou,
+
+52
+00:02:18,990 --> 00:02:23,760
+DeepSeek, publie un modèle d'intelligence artificielle appelé R1.
+
+53
+00:02:24,080 --> 00:02:27,120
+Il tient tête aux meilleurs modèles américains.
+
+54
+00:02:27,440 --> 00:02:30,928
+DeepSeek affirme avoir dépensé environ 5,6 millions
+
+55
+00:02:30,928 --> 00:02:33,153
+de dollars de calcul pour son modèle
+
+56
+00:02:33,153 --> 00:02:36,160
+de base, un chiffre que des analystes contestent.
+
+57
+00:02:36,480 --> 00:02:38,214
+Et le tout sur des puces bridées
+
+58
+00:02:38,214 --> 00:02:40,000
+par les restrictions américaines.
+
+59
+00:02:40,320 --> 00:02:42,128
+Le lundi 27 janvier,
+
+60
+00:02:42,128 --> 00:02:46,480
+Nvidia perd environ 589 milliards de dollars en bourse.
+
+61
+00:02:46,800 --> 00:02:49,798
+Aucune entreprise n'avait jamais perdu autant en
+
+62
+00:02:49,798 --> 00:02:50,960
+une seule journée.
+
+63
+00:02:51,280 --> 00:02:54,000
+Ce choc ne tombe pas du ciel.
+
+64
+00:02:54,320 --> 00:02:59,275
+L'institut australien ASPI suit 74 technologies jugées critiques.
+
+65
+00:02:59,595 --> 00:03:02,142
+Sur les publications les plus citées entre
+
+66
+00:03:02,142 --> 00:03:04,393
+2021 et 2025,
+
+67
+00:03:04,393 --> 00:03:07,355
+la Chine est en tête dans 69 d'entre elles.
+
+68
+00:03:07,675 --> 00:03:09,755
+Au milieu des années 2000,
+
+69
+00:03:09,755 --> 00:03:11,195
+elle n'en menait que 3.
+
+70
+00:03:13,695 --> 00:03:15,629
+Mais une IA sans électricité,
+
+71
+00:03:15,629 --> 00:03:18,015
+ce n'est qu'un programme qui attend.
+
+72
+00:03:18,335 --> 00:03:20,132
+Et sur l'électricité,
+
+73
+00:03:20,132 --> 00:03:22,255
+l'écart donne le vertige.
+
+74
+00:03:22,575 --> 00:03:25,757
+En 2025, la Chine a raccordé plus
+
+75
+00:03:25,757 --> 00:03:29,215
+de 430 gigawatts d'éolien et de solaire.
+
+76
+00:03:29,535 --> 00:03:31,135
+En une seule année.
+
+77
+00:03:31,455 --> 00:03:32,839
+Pour la première fois,
+
+78
+00:03:32,839 --> 00:03:34,946
+le vent et le soleil dépassent les
+
+79
+00:03:34,946 --> 00:03:37,775
+centrales thermiques dans son parc électrique.
+
+80
+00:03:38,095 --> 00:03:41,186
+Sa production renouvelable atteint environ 4 000
+
+81
+00:03:41,186 --> 00:03:42,655
+milliards de kilowattheures.
+
+82
+00:03:42,975 --> 00:03:45,929
+Plus que toute l'électricité consommée par les
+
+83
+00:03:45,929 --> 00:03:48,255
+27 pays de l'Union européenne.
+
+84
+00:03:48,575 --> 00:03:52,015
+Cette électricité, il faut ensuite la stocker.
+
+85
+00:03:52,335 --> 00:03:54,820
+Selon l'Agence internationale de l'énergie,
+
+86
+00:03:54,820 --> 00:03:56,796
+plus de 80 % des cellules de
+
+87
+00:03:56,796 --> 00:03:59,846
+batteries produites dans le monde en 2025
+
+88
+00:03:59,846 --> 00:04:00,975
+sortaient de Chine.
+
+89
+00:04:01,295 --> 00:04:03,399
+Et pour les matériaux à l'intérieur de
+
+90
+00:04:03,399 --> 00:04:05,935
+ces batteries, sa part est encore plus élevée.
+
+91
+00:04:08,435 --> 00:04:10,395
+Des batteries à la voiture,
+
+92
+00:04:10,395 --> 00:04:11,795
+il n'y a qu'un pas.
+
+93
+00:04:12,115 --> 00:04:15,679
+En 2025, près de 3 voitures électriques
+
+94
+00:04:15,679 --> 00:04:18,141
+sur 4 produites dans le monde sont
+
+95
+00:04:18,141 --> 00:04:19,955
+sorties d'usines chinoises.
+
+96
+00:04:20,275 --> 00:04:21,370
+La même année,
+
+97
+00:04:21,370 --> 00:04:24,143
+BYD, une société fondée à Shenzhen en
+
+98
+00:04:24,143 --> 00:04:27,573
+1995 pour fabriquer des batteries,
+
+99
+00:04:27,573 --> 00:04:32,755
+a vendu 2,26 millions de voitures 100 % électriques.
+
+100
+00:04:33,075 --> 00:04:36,515
+Tesla en a livré 1,64 million.
+
+101
+00:04:36,835 --> 00:04:39,427
+Pour la première fois sur une année
+
+102
+00:04:39,427 --> 00:04:41,875
+entière, l'américain est dépassé.
+
+103
+00:04:42,195 --> 00:04:43,342
+Dans les usines,
+
+104
+00:04:43,342 --> 00:04:45,635
+la machine prend aussi le relais.
+
+105
+00:04:45,955 --> 00:04:49,232
+En 2024, la Chine a installé 295
+
+106
+00:04:49,232 --> 00:04:51,235
+000 robots industriels.
+
+107
+00:04:51,555 --> 00:04:55,315
+Plus d'un robot sur deux installés sur la planète.
+
+108
+00:04:55,635 --> 00:04:57,329
+Et pour la première fois,
+
+109
+00:04:57,329 --> 00:05:00,195
+la majorité venaient de fabricants chinois.
+
+110
+00:05:00,515 --> 00:05:03,302
+Les humanoïdes du semi-marathon ne sont que
+
+111
+00:05:03,302 --> 00:05:05,075
+la vitrine de ce mouvement.
+
+112
+00:05:07,575 --> 00:05:10,573
+L'investisseur américain Ray Dalio a étudié cinq
+
+113
+00:05:10,573 --> 00:05:11,796
+siècles d'empires :
+
+114
+00:05:11,796 --> 00:05:14,610
+les Provinces-Unies, puis la Grande-Bretagne,
+
+115
+00:05:14,610 --> 00:05:15,895
+puis les États-Unis.
+
+116
+00:05:16,215 --> 00:05:20,855
+Pour lui, la puissance suit un grand cycle.
+
+117
+00:05:21,175 --> 00:05:23,217
+On monte en éduquant,
+
+118
+00:05:23,217 --> 00:05:25,815
+en innovant, en produisant.
+
+119
+00:05:26,135 --> 00:05:28,179
+Puis viennent la dette,
+
+120
+00:05:28,179 --> 00:05:30,223
+les divisions internes,
+
+121
+00:05:30,223 --> 00:05:31,415
+et le déclin.
+
+122
+00:05:31,735 --> 00:05:34,384
+Dans son livre de 2021,
+
+123
+00:05:34,384 --> 00:05:36,885
+il décrit une puissance montante,
+
+124
+00:05:36,885 --> 00:05:39,975
+la Chine, qui défie la puissance établie.
+
+125
+00:05:40,295 --> 00:05:42,535
+Rien n'est écrit pour autant.
+
+126
+00:05:42,855 --> 00:05:45,454
+La population chinoise a encore reculé en
+
+127
+00:05:45,454 --> 00:05:48,114
+2025, l'immobilier a souffert,
+
+128
+00:05:48,114 --> 00:05:50,775
+et les tensions commerciales s'accumulent.
+
+129
+00:05:51,095 --> 00:05:53,415
+Mais une chose a déjà basculé.
+
+130
+00:05:53,735 --> 00:05:56,024
+Le pays qu'on accusait de copier est
+
+131
+00:05:56,024 --> 00:05:58,375
+devenu celui que les autres étudient.
+
+132
+00:05:58,695 --> 00:06:01,338
+Alors, le prochain robot qui battra un
+
+133
+00:06:01,338 --> 00:06:03,575
+record humain, il viendra d'où ?
+
+134
+00:06:03,895 --> 00:06:06,353
+Dites-le en commentaire :
+
+135
+00:06:06,353 --> 00:06:09,095
+Chine, États-Unis ou Europe.
+
