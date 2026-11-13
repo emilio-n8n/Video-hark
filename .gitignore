@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+render/layers/
+render/segs/
+render/segs_en/
+render/stills/
+**/render/layers/
+**/render/segs/
+**/render/segs_en/
+**/render/stills/
+out_tts/
+out_img/
+out_img21/
+*.tmp.mp4
+kaggle.json
+.env
